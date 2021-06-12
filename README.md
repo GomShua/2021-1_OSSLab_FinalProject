@@ -4,12 +4,12 @@ This project is python based web service application that allows users to analyz
 However, since I used flask and vader-sentiment open-source package, type this two command lines to install the package.
 
 Installing Flask:
-
-  pip install flask
+    
+    pip install flask
 
 Installing Vader-sentiment:
-
-  pip install vader-sentiment
+    
+    pip install vader-sentiment
 
 
 
