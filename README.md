@@ -23,4 +23,4 @@ You can get more information about **Vader-Sentiment** package [here](https://gi
 Get more information about **Flask** package [here](https://palletsprojects.com/p/flask/).
 
 Explanation Video [[Youtube LINK]](https://youtu.be/WwiX7OGxML0)
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![VIDEO LINK]](https://youtu.be/WwiX7OGxML0)
