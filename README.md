@@ -23,4 +23,3 @@ You can get more information about **Vader-Sentiment** package [here](https://gi
 Get more information about **Flask** package [here](https://palletsprojects.com/p/flask/).
 
 Explanation Video [[Youtube LINK]](https://youtu.be/WwiX7OGxML0)
-[![VIDEO LINK]](https://youtu.be/WwiX7OGxML0)
