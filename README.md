@@ -18,6 +18,5 @@ If you successfully ran app.py, go to http://localhost:5000/ using any web brows
 <br><br><br>
 
 ### etc.
-If you want to know how does the sentiment analysis work, you can visit the **vader-sentiment** github repository. [LINK](https://github.com/cjhutto/vaderSentiment.git)
-
+You can get more information about **Vader-Sentiment** package [here](https://github.com/cjhutto/vaderSentiment.git).
 Get more information about **Flask** package [here](https://palletsprojects.com/p/flask/).
