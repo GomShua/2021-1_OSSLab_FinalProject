@@ -21,3 +21,5 @@ If you successfully ran app.py, go to http://localhost:5000/ using any web brows
 You can get more information about **Vader-Sentiment** package [here](https://github.com/cjhutto/vaderSentiment.git).
 
 Get more information about **Flask** package [here](https://palletsprojects.com/p/flask/).
+
+Explanation Video [[Youtube LINK]](https://youtu.be/WwiX7OGxML0)
