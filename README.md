@@ -1,6 +1,6 @@
 # Sentiment Analyzing
 ## 1. What does this project do?
-This project is python based web service application that allows users to analyze the bunch of sentences whether they generally contains positive or negative emotions. This project can be really useful when the person want to know the general tone of long paragraph.
+This project is python based web service application that allows users to analyze the group of sentences whether they generally contains positive or negative emotions. This project can be really useful when the person want to know the general tone of long paragraph.
 
 ## 2. How to use
 You can simply clone the repository and start using web server running app.py. However, I used flask and vader-sentiment open-source packages. So, if you did not install these two packages, you will need to type these two command lines to install the packages.
