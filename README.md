@@ -13,7 +13,9 @@ Installing Vader-sentiment:
     
     pip install vader-sentiment
     
-If you successfully ran app.py, go to http://localhost:5000/ using any web browser. Then, you are ready to use sentiment analyzer. Scrolling down the website, you will be able to find the section that has textbox with button. If you put 
+If you successfully ran app.py, go to http://localhost:5000/ using any web browser. Then, you are ready to use sentiment analyzer. Scrolling down the website, you will be able to find the section that has textbox with button. Now, you can put sentences and press the button to use sentiment analyzer.
 
+## etc.
+If you want to know how does the sentiment analysis work, you can visit the vader-sentiment github repository. [LINK](https://github.com/cjhutto/vaderSentiment.git)
 
-For the open-source packages, I used Flask to run the webserver. 
+If you want to get more information about flask [LINK](https://palletsprojects.com/p/flask/)
